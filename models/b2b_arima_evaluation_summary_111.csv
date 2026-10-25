@@ -1,0 +1,3 @@
+split,method,eligible_models,models_using_arima,models_using_fallback,MAE,WAPE_percent,actual_total,predicted_total,total_error,evaluated_model_months
+validation_2028,"ARIMA(1, 1, 1)",213,212,1,1.1714457428736216,47.51968447524166,6301.0,6295.4360440895125,-5.563955910487493,2556
+test_2029,"ARIMA(1, 1, 1)",223,222,1,0.9800144348201522,46.589423122734544,5629.0,6024.896337669648,395.89633766964835,2676

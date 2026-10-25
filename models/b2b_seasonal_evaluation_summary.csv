@@ -1,0 +1,3 @@
+split,method,eligible_models,MAE,WAPE_percent,actual_total,predicted_total,total_error,evaluated_model_months
+validation_2028,seasonal_naive_with_mean_fallback,213,1.3296752738654147,53.938263767655926,6301.0,6255.9,-45.100000000000364,2556
+test_2029,seasonal_naive_with_mean_fallback,223,1.2803232517358079,60.8659623671171,5629.0,6327.145021645021,698.1450216450212,2676

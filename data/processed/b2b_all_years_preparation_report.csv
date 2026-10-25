@@ -1,0 +1,7 @@
+﻿year,source_rows,exact_duplicates_removed,rows_after_deduplication,distinct_orders,product_models,order_model_observations,encoding
+2024,46470,6955,39515,3973,186,5970,utf-8-sig
+2025,52395,7039,45356,4110,181,6227,utf-8-sig
+2026,48419,8359,40060,4290,185,6282,utf-8-sig
+2027,50422,8749,41673,4325,186,6244,utf-8-sig
+2028,45472,6731,38741,4191,191,6315,utf-8-sig
+2029,42763,6948,35815,3643,185,5637,utf-8-sig

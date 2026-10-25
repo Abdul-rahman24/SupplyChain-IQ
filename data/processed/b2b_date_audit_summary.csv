@@ -1,0 +1,7 @@
+﻿filename,expected_year,status,row_count,missing_request_dates,invalid_request_dates,valid_request_dates,min_request_date,max_request_date,rows_outside_filename_year,distinct_actual_years
+2024_full_anonymus_v2_final.csv,2024,success,46470,0,0,46470,2024-01-02 00:00:00,2024-12-30 00:00:00,0,2024
+2025_full_anonymus_v2_final.csv,2025,success,52395,0,0,52395,2025-01-02 00:00:00,2025-12-29 00:00:00,0,2025
+2026_full_anonymus_v2_final.csv,2026,success,48419,0,0,48419,2026-01-04 00:00:00,2026-12-30 00:00:00,0,2026
+2027_full_anonymus_v2_final.csv,2027,success,50422,0,0,50422,2027-01-03 00:00:00,2027-12-28 00:00:00,0,2027
+2028_full_anonymus_v2_final.csv,2028,success,45472,0,0,45472,2028-01-02 00:00:00,2028-12-27 00:00:00,0,2028
+2029_full_anonymus_v2_final.csv,2029,success,42763,0,0,42763,2029-01-02 00:00:00,2029-12-20 00:00:00,0,2029

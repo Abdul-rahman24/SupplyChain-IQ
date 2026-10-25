@@ -1,0 +1,24 @@
+{
+    "model_name": "DataCo Logistic Regression",
+    "target": "Late_delivery_risk",
+    "threshold": 0.3,
+    "features": [
+        "Type",
+        "Category Name",
+        "Customer Segment",
+        "Department Name",
+        "Market",
+        "Order Country",
+        "Order Region",
+        "Shipping Mode",
+        "Days for shipment (scheduled)",
+        "Order Item Quantity",
+        "Order Item Product Price",
+        "Order Item Discount Rate",
+        "order_year",
+        "order_month",
+        "order_day_of_week"
+    ],
+    "positive_class": 1,
+    "note": "Threshold 0.30 is provisional and favors detecting more late-delivery-risk cases at the cost of more false alarms."
+}
