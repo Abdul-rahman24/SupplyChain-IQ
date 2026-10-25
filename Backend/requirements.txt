@@ -1,0 +1,11 @@
+
+Django>=6.0,<6.1
+gunicorn
+whitenoise
+django-cors-headers
+numpy
+pandas
+scikit-learn
+joblib
+statsmodels
+scipy
